@@ -1,1 +1,4 @@
+
 file b edit from car branch
+=======
+edit file b from car branch
